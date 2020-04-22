@@ -1,6 +1,6 @@
 # Installing Python
 
-These instructions guide you through the process of installing Python and other packages (e.g., Jupyter Notebook) on your machine. There are also instructions for creating a computing environment that enables you to reproduce the web-scraping code associated with the *Web-scraping for Social Science Research* training series.
+These instructions guide you through the process of installing Python and other packages (e.g., Jupyter Notebook) on your machine. There are also instructions for creating a computing environment that enables you to run the web-scraping code associated with the *Web-scraping for Social Science Research* training series.
 
 ### Step 1 - Install Python
 

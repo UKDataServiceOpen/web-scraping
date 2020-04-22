@@ -5,7 +5,7 @@
 The following is a sample of questions that have been posed during the *Web-scraping for Social Science Research* webinar series.
 
 ### Q. Is web-scraping legal?
-In the United Kingdom (UK) there is no specific law prohibiting the capture or use of data from websites. However, many websites have Terms of Service/Use that must be abided when you use them. The information stored on websites can also be subject to copyright or data laws.
+In the United Kingdom (UK) there is no specific law prohibiting the capture or use of data from websites. However, many websites have Terms of Service/Use that must be abided when you use them. The information stored on websites can also be subject to copyright or data protection laws. If you work for a non-commercial/public research organisation or a cultural heritage institution (e.g., libraries, museums and archives), then your web-scraping activities may be covered under the [text and data mining (TDM) EU directive](http://lr-coordination.eu/News/What%E2%80%99s-new-in-the-Directive).
 
 ### Q. Can I collect qualitative data using web-scraping?
 Yes, in fact most of the information contained on websites is stored as text. It is relatively simple to capture this information using web-scraping techniques, and save the results to a file. 

@@ -6,7 +6,7 @@ Vast swathes of our social interactions and personal behaviours are now conducte
 
 The following topics are covered under this training series:
 1. **Case Study** - understand the research potential of web-scraping through examining a published piece of social science research. 
-2. **Websites as a Source of Data** - learn how to write collect data from websites using Python.  
+2. **Websites as a Source of Data** - learn how to collect data from websites using Python.  
 3. **APIs as a Source of Data** - learn how to download data from online databases using Python and Application Programming Interfaces (APIs).
 
 ## Materials

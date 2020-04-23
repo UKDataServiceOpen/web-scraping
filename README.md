@@ -14,11 +14,11 @@ The following topics are covered under this training series:
 ## Materials
 
 The training materials - including webinar recordings, slides, and sample Python code - can be found in the following folders:
-* [webinars](./webinars) - watch recordings of our webinars and download the underpinning slides.
 * [code](./code) - run and/or download web-scraping code using our Jupyter notebook resources.
-* [reading-list](./reading-list) - explore further resources including articles, books, online resources and more.
 * [faq](./faq) - read through some of the frequently asked questions that are posed during our webinars.
 * [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with new forms of data.
+* [reading-list](./reading-list) - explore further resources including articles, books, online resources and more.
+* [webinars](./webinars) - watch recordings of our webinars and download the underpinning slides.
 
 ### Acknowledgements
 

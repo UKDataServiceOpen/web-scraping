@@ -30,6 +30,7 @@ We are grateful to the Economic and Social Research Council and UKRI for their g
 * To get in contact with feedback, ideas or to seek assistance: <a href="https://ukdataservice.ac.uk/help.aspx" target=_blank>[Help]</a>
 
 Thank you and good luck on your journey exploring new forms of data! <br>
+
 <a href="https://www.research.manchester.ac.uk/portal/julia.kasmire.html" target=_blank>Dr Julia Kasmire</a> and <a href="https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html" target=_blank>Dr Diarmuid McDonnell</a> <br />
 UK Data Service  <br />
 University of Manchester <br />

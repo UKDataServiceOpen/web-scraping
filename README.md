@@ -19,3 +19,17 @@ The training materials - including webinar recordings, slides, and sample Python
 * [reading-list](./reading-list) - explore further resources including articles, books, online resources and more.
 * [faq](./faq) - read through some of the frequently asked questions that are posed during our webinars.
 * [installation](./installation) - view instructions for how to download and install Python and other packages necessary for working with new forms of data.
+
+### Acknowledgements
+
+We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
+
+### Further Information
+
+* To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
+* To get in contact with feedback, ideas or to seek assistance: <a href="https://ukdataservice.ac.uk/help.aspx" target=_blank>[Help]</a>
+
+Thank you and good luck on your journey exploring new forms of data! <br>
+<a href="https://www.research.manchester.ac.uk/portal/julia.kasmire.html" target=_blank>Dr Julia Kasmire</a> and <a href="https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html" target=_blank>Dr Diarmuid McDonnell</a> <br />
+UK Data Service  <br />
+University of Manchester <br />

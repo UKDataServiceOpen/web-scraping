@@ -13,10 +13,13 @@ Note: Chapter 12 is a readable treatment of the practical and technical aspects 
 ### Python
 
 Brooker, P. (2020). *Programming with Python for Social Scientists*. London: SAGE Publications Ltd. <br>
-Note: A readable and broad introduction to computational methods for social science research; mixes theoretical and practical content well.
+Note: One of the best (and few) introductions to computational methods for social science research; mixes theoretical and practical content very well.
 
 Downey, A. (2015). *Think Python: How to Think Like a Computer Scientist*. Needham, Massachusetts: Green Tea Press. <a href="http://greenteapress.com/thinkpython2" target=_blank>http://greenteapress.com/thinkpython2</a> <br>
 Note: A thorough and clear account of the main features of Python.
+
+King's College London (). *Code Camp*. <a href="https://github.com/kingsgeocomp/code-camp" target=_blank>https://github.com/kingsgeocomp/code-camp</a> <br>
+Note: A brilliant set of notebooks and lessons for learning the fundamentals of Python.
 
 VanderPlas, J. (2016). *Python Data Science Handbook: Essential Tools for Working with Data*. <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target=_blank>https://jakevdp.github.io/PythonDataScienceHandbook/</a> <br>
 Note: An in-depth treatment of core data science tasks in Python - calculations, data frames, visualisation and machine learning.

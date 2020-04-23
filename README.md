@@ -1,3 +1,5 @@
+![UKDS Logo](./code/images/UKDS_Logos_Col_Grey_300dpi.png)<br>
+<br>
 # Web-scraping for Social Science Research
 
 Vast swathes of our social interactions and personal behaviours are now conducted online and/or captured digitally. In addition to common sources such as social media/network platforms and text corpora, websites and online databases contain rich information of relevance to social science research. Thus, computational methods for collecting data from the web are an increasingly important component of a social scientist’s toolkit.

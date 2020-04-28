@@ -2,7 +2,7 @@
 
 ## 1. Case Study
 This webinar demonstrates the research potential of web-scraping by describing its role in generating a linked administrative dataset to study the causal effect of a regulatory intervention in the UK charity sector. Presented by [Dr Diarmuid McDonnell](https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html) of the UK Data Service, this webinar will cover the process of scraping data about charities, practical and ethical implications, and the advantages and disadvantages of using this form of data for social science research more generally.
-* Watch recording
+* [Watch recording](https://www.youtube.com/watch?v=ygA1bONLq-4)
 * [Download slides](./ukds-nfod-web-scraping-case-study-2020-03-27.pdf)
 
 ## 2. Websites as a Source of Data

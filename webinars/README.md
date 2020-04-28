@@ -7,7 +7,7 @@ This webinar demonstrates the research potential of web-scraping by describing i
 
 ## 2. Websites as a Source of Data
 This webinar delineates the value, logic and process of capturing data stored on websites. Presented by [Dr Diarmuid McDonnell](https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html) of the UK Data Service, this webinar will cover the step-by-step process of collecting data from a web page, including providing sample code written in the popular Python programming language. It demonstrates web-scraping techniques for capturing real-time information on the Covid-19 pandemic, as well as for the author’s own research specialism (charitable organisations).
-* Watch recording
+* [Watch recording](https://www.youtube.com/watch?v=Q-UaAFBtUDw)
 * [Download slides](./ukds-nfod-web-scraping-websites-2020-04-23.pdf)
 
 ## 3. APIs as a Source of Data

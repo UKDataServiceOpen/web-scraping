@@ -21,8 +21,8 @@ In terms of good practice specific to web-scraping:
 ### Q. Can I conduct web-scraping in R / Stata / other packages?
 Yes. We have chosen Python as we think it is particularly good and easy to learn for this task. However many other programming languages and software applications have web-scraping modules. While the exact commands will differ, the underpinning logic remains the same.
 
-### Q. What kinds of data can you scrape from websites?
-While websites tend to mainly contain text (e.g., paragraphs or tables of interest), it is possible to scrape other types of data such as files, images etc. This is possible because these types of data tend to be stored as links on a web page; therefore you scrape these links and then request them using Python's `requests` module. However, there may be issues with permissions around the collection and use of certain images, files, videos etc.
+### Q. What kinds of data can you scrape from web pages?
+While web pages tend to mainly contain text (e.g., paragraphs or tables of interest), it is possible to scrape other types of data such as files, images etc. This is possible because these types of data tend to be stored as links on a web page; therefore you scrape these links and then request them using Python's `requests` module. However, there may be issues with permissions around the collection and use of certain images, files, or videos (e.g., copyright).
 
 ### Q. Can you scrape data from social media sites?
 In theory yes, but social media platforms (and many other organisations producing large amounts of data) prefer you to access their data via an Application Programming Interface (API) that connects to their online database. There are still restrictions around the nature, volume and use of data that you can access but these tend to be well documented.

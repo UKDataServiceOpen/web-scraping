@@ -20,11 +20,11 @@ The training materials - including webinar recordings, slides, and sample Python
 * [reading-list](./reading-list) - explore further resources including articles, books, online resources and more.
 * [webinars](./webinars) - watch recordings of our webinars and download the underpinning slides.
 
-### Acknowledgements
+## Acknowledgements
 
 We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
 
-### Further Information
+## Further Information
 
 * To access learning materials from the wider *New Forms of Data for Social Science Research* training series: <a href="https://github.com/UKDataServiceOpen/new-forms-of-data" target=_blank>[Training Materials]</a>
 * To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
